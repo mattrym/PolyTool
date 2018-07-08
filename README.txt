@@ -1,5 +1,3 @@
-﻿Autor: Mateusz Rymuszka (C1)
-
 Program jest modyfikacją poprzedniego projektu (funkcjonalności dotyczące ustawiania ograniczeń na krawędziach zostały wycofane). 
 Użytkownik ma możliwość dodawania, przesuwania oraz usuwania wielokątów, a także możliwość przesuwania i usuwania poszczególnych wierzchołków.
 
